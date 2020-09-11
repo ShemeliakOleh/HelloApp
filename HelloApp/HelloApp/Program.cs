@@ -11,6 +11,7 @@ namespace HelloApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello App");
+            Console.WriteLine("Hello Oleh");
         }
     }
 }
